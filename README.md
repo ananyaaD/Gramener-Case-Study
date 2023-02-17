@@ -28,6 +28,15 @@ Loan rejected: The company had rejected the loan (because the candidate does not
 # Business-Objectives
 This company is the largest online loan marketplace facilitating personal loans, business loans, and the financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
 
+# Results-Expected
+The following are the anticipated results from the learners' end:
+
+Write all your code in one well-commented Python file; briefly mention the insights and observations from the analysis.
+Present the overall approach of the analysis in a presentation: 
+Mention the problem statement and the analysis approach briefly.
+Explain the results of univariate analysis, bivariate analysis, etc., in business terms.
+Include visualisations and summarise the most important results in the presentation.
+You need to submit one Jupyter Notebook that clearly explains the thought process behind your analysis (either in comments or markdown text), code and relevant plots. The presentation file must be in PDF format and must contain the points discussed above with the necessary visualisations. Additionally, all the visualisations and plots must be prepared in Python (should be present in the IPython notebook), though they may be recreated in Tableau for better aesthetics in the PPT file.
 Like most other lending companies, lending to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or absconds with the money owed. In other words, borrowers who default cause the biggest losses to lenders. In this case, customers labelled as ‘charged-off’ are the ‘defaulters’.
 
 If one is able to identify these risky loan applicants, then such loans can be reduced, thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
